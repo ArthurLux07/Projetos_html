@@ -1,0 +1,46 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(242deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 100%);
+
+    
+
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+    font-weight: lighter;
+    border: solid #ffffff;
+    border-radius: 7px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    
+}
+
+section{
+   display: flex;
+   gap: 20px;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-content: space-around;
+   margin-left: 10px;
+   margin-bottom: 10px;
+}
+
+img{
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 3px;
+}
+
+.linha-vertical{
+    height: 200px;
+    border-right: 1px solid black;
+}
+
+
